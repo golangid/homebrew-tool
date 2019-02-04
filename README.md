@@ -2,5 +2,7 @@
 
 - Anoman https://github.com/golangid/anoman
 ```shell
-$ brew install golangid/tool/anoman
+$ brew tap golangid/tool
+
+$ brew install anoman
 ```
